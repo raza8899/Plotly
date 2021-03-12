@@ -1,2 +1,2 @@
 # Plotly
-A simple IPython Notebook to learn Plotly
+A simple IPython Notebook to explore Plotly
